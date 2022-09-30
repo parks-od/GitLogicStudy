@@ -33,3 +33,8 @@ Git merge (작업브랜치)
 
 -> 합병됨 git push origin main -> 합병된 메인 브랜치 올라감 ( 합병해도 브랜치 존재)
 
+git을 branch에 바로 push
+https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+
+코드리뷰 하는 방법
+https://joyful-development.tistory.com/14
